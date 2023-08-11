@@ -1,0 +1,32 @@
+.loli{
+    position: absolute;
+    left: 600px;
+    bottom: 180px;
+    width: 500px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color:rgb(111, 92, 102);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+    background-color:rgb(111, 92, 102);
+    color: rgb(250, 250, 250);
+}
+
+textarea{
+    background-color: rgb(111, 92, 102);;
+    color: rgb(250, 250, 250);
+}
+form{
+    display: block;
+    flex-direction: column;
+    justify-content: start;
+    width: 350px;
+    margin-top: 80px;
+    border:;
+}
+   
